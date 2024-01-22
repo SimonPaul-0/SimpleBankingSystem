@@ -61,6 +61,9 @@ Contributions are welcome! If you have suggestions, improvements, or bug fixes, 
 
 This project is licensed under the [MIT License](LICENSE).
 
+## Author
+[Simon Paul]
+
 Happy Banking!
 
 ---
