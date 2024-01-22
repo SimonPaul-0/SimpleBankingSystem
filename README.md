@@ -1,6 +1,6 @@
-**Summary: C++ Timer & World Clock**
+**C++ Timer & World Clock**
 
-A brief program featuring:
+A program featuring:
 
 - Timer: start, lap, pause/resume, stop.
 - Time display: current time, timezone.
